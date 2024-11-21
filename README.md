@@ -1,0 +1,1 @@
+Cleaned and analyzed real-world company data to uncover valuable insights into customer behavior, sales trends, and business performance. Leveraged tools like Python, SQL, Tableau, and Power BI to create interactive dashboards and data visualizations, supporting data-driven decision-making and strategy optimization.
